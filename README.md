@@ -44,6 +44,13 @@ I'm a full-stack developer based in Ethiopia 🇪🇹, specializing in backend s
 </div>
 
 ---
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahomwg/nahomwg/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahomwg/nahomwg/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nahomwg/nahomwg/output/snake.svg" />
+</picture>
 
 ### 📈 GitHub Stats & Streaks
 
