@@ -14,7 +14,7 @@
   <a href="https://x.com/nwg347" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/users/795582615704174613" target="_blank">
     <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
    <a href="https://gitlab.com/nahomwores" target="_blank">
