@@ -14,12 +14,16 @@
   <a href="https://x.com/nwg347" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://discord.com/nahum347" target="_blank">
     <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+   <a href="https://gitlab/nahomwores" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=gitlab&logo=gitlab&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:nahomwores7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
+  
 </div>
 
 ---
