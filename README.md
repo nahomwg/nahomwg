@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey 👋 I'm Nahom</h1>
-<h3 align="center">Full-Stack Software Engineer | .NET • React • TypeScript | Backend-Focused</h3>
+<h3 align="center">Full-Stack Software Engineer | C#/.NET • React • JavaScript/TypeScript • Node.js/Express.js | Backend-Focused</h3>
 
 ---
 
