@@ -50,6 +50,7 @@ I'm a full-stack developer based in Ethiopia 🇪🇹, specializing in backend s
 ---
 ### 🐍 Contribution
 <div align="center">
+  
   ![snake gif](https://github.com/nahomwg/nahomwg/blob/output/github-snake-dark.svg)
 </div>
 
